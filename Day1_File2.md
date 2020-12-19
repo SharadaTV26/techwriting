@@ -1,9 +1,5 @@
-
 ---
-
 layout: template
-title: Sample Title
-
 ---
 
 # {{ page.title }}
