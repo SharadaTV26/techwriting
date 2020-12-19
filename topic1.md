@@ -14,7 +14,7 @@ I am calling it here: {{ site.product_name }}
 
 Am adding data variables here
 
-{ % for using data variables in site.data.variablesfile %}
+{ % for using data variables in site.data.variablefile %}
 
 The animals are {{item.name}} and places are {{item.place}}
 
