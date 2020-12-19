@@ -1,3 +1,8 @@
+---
+layout: template
+---
+
+
 ## High Level Process Flow
 
 - **Release Planning:** In this phase, the Leads analyzed the tickets (stories/epics) and created high-level estimates before assigning tickets to the team. Writers created task tickets in the Ticket Tracking System (Jira/Trac/etc.).
