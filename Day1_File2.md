@@ -1,7 +1,7 @@
 
 ---
 
-layout: template
+layout: create template
 title: Sample Title
 
 ---
