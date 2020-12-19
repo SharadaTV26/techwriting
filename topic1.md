@@ -1,3 +1,6 @@
+---
+template: layout
+---
 # Documentation Process in Agile
 
 This article provides a time-tested documentation process that you can follow in agile. Are you a technical writer working in an agile environment? Then read on.
