@@ -1,9 +1,0 @@
----
-layout: template
----
-
- - name: sheep
-   place: bangalore
-
- - name: Goat
-   place: mangalore
