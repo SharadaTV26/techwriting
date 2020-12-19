@@ -1,3 +1,6 @@
+---
+layout: template
+---
 ## Process Flow Diagram
 
 At a high level, our documentation process in agile involved the following phases:
