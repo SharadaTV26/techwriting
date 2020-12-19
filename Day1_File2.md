@@ -1,3 +1,8 @@
+
+---
+layout: template
+---
+
 # Edits by Thripti
 
 # Chapter II
