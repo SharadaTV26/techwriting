@@ -11,3 +11,11 @@ To add local variable from config.yml, use site to call the variables.
 To add global variable, add it to template
 
 I am calling it here: {{ site.product_name }}
+
+Am adding data variables here
+
+{ % for using data variables in site.data.variablesfile %}
+
+The animals are {{item.name}} and places are {{item.place}}
+
+{% endfor %}
