@@ -1,3 +1,8 @@
+---
+layout: template
+---
+
+
 # Home page
 
 
