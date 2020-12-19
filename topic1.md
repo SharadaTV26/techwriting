@@ -1,5 +1,5 @@
 ---
-template: layout
+layout: template
 ---
 # Documentation Process in Agile
 
