@@ -1,3 +1,5 @@
+# Edits by Thripti
+
 # Chapter II
  
 So I lived my life alone, without anyone that I could really talk to, until I had an accident with my plane in the Desert of Sahara, six years ago. 
