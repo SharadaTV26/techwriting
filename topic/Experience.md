@@ -4,6 +4,6 @@ My work experience is as follows:
 
 {% for item in site.data.variablefile %}
 
-{{ item.company }} {{ item.from }} {{ item.to }}
+The animals are {{ item.company }} and places are {{ item.place }}
 
 {% endfor %}
