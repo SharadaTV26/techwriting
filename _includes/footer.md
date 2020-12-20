@@ -1,1 +1,1 @@
-© {{ site.name }}, 2020
+© {{site.name}}, 2020
